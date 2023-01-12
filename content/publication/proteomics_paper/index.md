@@ -28,11 +28,11 @@ publishDate: "2022-01-01"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nucleus*
-publication_short: In *Nucleus*
+# publication: In *Nucleus*
+# publication_short: In *Nucleus*
 
 abstract: The double membrane nuclear envelope (NE), which is contiguous with the ER, contains nuclear pore complexes (NPCs) – the channels for nucleocytoplasmic transport, and the nuclear lamina (NL) – a scaffold for NE and chromatin organization. Since numerous human diseases linked to NE proteins occur in mesenchyme-derived cells, we used proteomics to characterize NE and other subcellular fractions isolated from mesenchymal stem cells and from adipocytes and myocytes. Based on spectral abundance, we calculated enrichment scores for proteins in the NE fractions. We demonstrated by quantitative immunofluorescence microscopy that five little-characterized proteins with high enrichment scores are substantially concentrated at the NE, with Itprip exposed at the outer nuclear membrane, Smpd4 enriched at the NPC, and Mfsd10, Tmx4, and Arl6ip6 likely residing in the inner nuclear membrane. These proteins provide new focal points for studying the functions of the NE. Moreover, our datasets provide a resource for evaluating additional potential NE proteins.
 
