@@ -18,11 +18,11 @@ subtitle:
 feature:
 - description:
   icon: dna
-  icon_pack: fab
+  icon_pack: fas
   name: Molecular Biology
 - description:
   icon: brain
-  icon_pack: fab
+  icon_pack: fas
   name: Neuroscience
 - description:
   icon: python
