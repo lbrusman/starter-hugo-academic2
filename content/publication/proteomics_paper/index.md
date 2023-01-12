@@ -1,5 +1,4 @@
 ---
----
 title: "Identification of new transmembrane proteins concentrated at the nuclear envelope using organellar proteomics of mesenchymal cells"
 
 # Authors
@@ -23,7 +22,7 @@ date: "2019-02-08T00:00:00Z"
 doi: "https://doi.org/10.1080/19491034.2019.1618175"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-01"
+publishDate: "2022-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -61,6 +60,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
