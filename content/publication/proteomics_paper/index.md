@@ -1,5 +1,4 @@
 ---
----
 title: "Identification of new transmembrane proteins concentrated at the nuclear envelope using organellar proteomics of mesenchymal cells"
 
 # Authors
@@ -17,7 +16,7 @@ authors:
 - Larry Gerace
 
 # Author notes (optional)
-author_notes:
+# author_notes:
 
 date: "2019-02-08T00:00:00Z"
 doi: "https://doi.org/10.1080/19491034.2019.1618175"
